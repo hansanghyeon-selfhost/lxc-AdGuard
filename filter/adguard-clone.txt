@@ -1,0 +1,3 @@
+||ssl.pstatic.net/tveta/libs/
+||naver.com/shoppingbox/
+||veta.naver.com/fxshow
