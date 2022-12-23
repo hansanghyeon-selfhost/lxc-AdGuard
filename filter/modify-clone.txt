@@ -1,0 +1,2 @@
+www.naver.com#%#//scriptlet("set-cookie", "NM_TOP_PROMOTION", "1")
+naver.com#%#//scriptlet("set-constant", "getAdcrUrl", "")
