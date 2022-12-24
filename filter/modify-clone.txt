@@ -1,2 +1,5 @@
-www.naver.com#%#//scriptlet("set-cookie", "NM_TOP_PROMOTION", "1")
-naver.com#%#//scriptlet("set-constant", "getAdcrUrl", "")
+www.naver.com#%#/scriptlet(set-cookie", "NM_TOP_PROMOTION", "1")
+naver.com#%#/scriptlet(set-constant", "getAdcrUrl", '")
+www.naver.com##div[id“="veta_"]
+www.naver.com#$##newsstand { margin-top: Opx !important; }
+www.naver.com##div.column_fix_wrap > div#shopcast
